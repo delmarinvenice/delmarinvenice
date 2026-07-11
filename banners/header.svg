@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="100%">
+  <defs>
+    <linearGradient id="liquid-gold" x1="10%" y1="0%" x2="90%" y2="100%">
+      <stop offset="0%" stop-color="#4A3411" stop-opacity="0.1"/>
+      <stop offset="50%" stop-color="#E5A93C" stop-opacity="0.5"/>
+      <stop offset="85%" stop-color="#FFFFFF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#9A7432" stop-opacity="0.3"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(400, 160)">
+    <path d="M-180,40 Q-90,-120 0,-40 T180,-80" stroke="url(#liquid-gold)" stroke-width="1.2" fill="none" stroke-opacity="0.4"/>
+    <path d="M-140,60 Q-40,-90 20,-10 T160,-30" stroke="url(#liquid-gold)" stroke-width="2" fill="none" stroke-opacity="0.5"/>
+    <path d="M-220,10 Q-110,-160 -10,-80 T200,-120" stroke="#FFFFFF" stroke-width="0.8" fill="none" stroke-opacity="0.2"/>
+    
+    <path d="M-40,20 C-60,-40 -30,-110 0,-110 C30,-110 50,-50 30,30 C15,60 -15,50 -40,20 Z" stroke="url(#liquid-gold)" stroke-width="2.5" fill="none" stroke-opacity="0.9"/>
+    <path d="M-25,10 C-40,-30 -20,-85 0,-85 C20,-85 30,-40 20,20" stroke="#FFFFFF" stroke-width="1" fill="none" stroke-opacity="0.4"/>
+    
+    <path d="M-300,100 C-100,80 -50,-20 0,-20 C50,-20 100,120 300,60" stroke="url(#liquid-gold)" stroke-width="1.5" fill="none" stroke-opacity="0.3"/>
+  </g>
+
+  <g transform="translate(400, 45)">
+    <polygon points="0,-18 2,-2 18,0 2,2 0,18 -2,2 -18,0 -2,-2" fill="#FFFFFF" />
+    <circle cx="0" cy="0" r="6" fill="#FFFFFF" fill-opacity="0.3" />
+  </g>
+  
+  <g transform="translate(260, 110)" opacity="0.8">
+    <polygon points="0,-10 1.5,-1.5 10,0 1.5,1.5 0,10 -1.5,1.5 -10,0 -1.5,-1.5" fill="#E5A93C" />
+  </g>
+
+  <g transform="translate(580, 120)" opacity="0.7">
+    <polygon points="0,-12 1.5,-1.5 12,0 1.5,1.5 0,12 -1.5,1.5 -12,0 -1.5,-1.5" fill="#FFFFFF" />
+  </g>
+
+  <g fill="#FFF3D1">
+    <circle cx="360" cy="90" r="2" fill-opacity="0.5" />
+    <circle cx="430" cy="75" r="1.2" fill="#FFFFFF" fill-opacity="0.8" />
+    <circle cx="390" cy="120" r="3" fill="#E5A93C" fill-opacity="0.6" />
+    <circle cx="415" cy="200" r="1.5" fill-opacity="0.4" />
+    <circle cx="460" cy="140" r="2.2" fill-opacity="0.5" />
+    <circle cx="320" cy="180" r="1.2" fill="#FFFFFF" fill-opacity="0.3" />
+    <circle cx="480" cy="220" r="2.5" fill="#E5A93C" fill-opacity="0.7" />
+    <circle cx="370" cy="250" r="1.5" fill-opacity="0.4" />
+  </g>
+</svg>
