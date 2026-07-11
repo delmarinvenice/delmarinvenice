@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 130" width="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&amp;display=swap');
+      .meta-label { font-family: 'Montserrat', sans-serif; font-weight: 200; fill: #E5A93C; font-size: 9px; letter-spacing: 4px; opacity: 0.6; }
+    </style>
+    <linearGradient id="gold-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E5A93C" stop-opacity="0.4"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#9A7432" stop-opacity="0.3"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#06090E" rx="4"/>
+
+  <line x1="400" y1="15" x2="400" y2="115" stroke="#FFFFFF" stroke-width="0.5" opacity="0.08"/>
+  
+  <rect x="2" y="2" width="796" height="126" fill="none" stroke="url(#gold-border)" stroke-width="1" rx="4"/>
+  
+  <path d="M 12 4 L 4 4 L 4 12" fill="none" stroke="#E5A93C" stroke-width="1" opacity="0.6"/>
+  <path d="M 788 4 L 796 4 L 796 12" fill="none" stroke="#E5A93C" stroke-width="1" opacity="0.6"/>
+
+  <text x="200" y="25" text-anchor="middle" class="meta-label">// ENGENHARIA DE SISTEMAS</text>
+  <text x="600" y="25" text-anchor="middle" class="meta-label">// DINÂMICA DE LINGUAGENS</text>
+</svg>
