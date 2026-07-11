@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="100%">
+  <defs>
+    <linearGradient id="lens-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E5A93C" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#E5A93C" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.5"/>
+      <stop offset="65%" stop-color="#E5A93C" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#E5A93C" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <ellipse cx="400" cy="80" rx="320" ry="45" fill="none" stroke="url(#lens-grad)" stroke-width="1.5" stroke-opacity="0.6" />
+  
+  <ellipse cx="400" cy="80" rx="260" ry="35" fill="none" stroke="#FFFFFF" stroke-width="0.8" stroke-opacity="0.2" stroke-dasharray="6,3" />
+  
+  <line x1="60" y1="80" x2="740" y2="80" stroke="url(#lens-grad)" stroke-width="0.5" stroke-opacity="0.3" />
+
+  <g transform="translate(140, 65)">
+    <polygon points="0,-10 1.5,-1.5 10,0 1.5,1.5 0,10 -1.5,1.5 -10,0 -1.5,-1.5" fill="#FFFFFF" />
+    <circle cx="0" cy="0" r="4" fill="#FFFFFF" fill-opacity="0.3" />
+  </g>
+
+  <g transform="translate(660, 95)">
+    <polygon points="0,-12 2,-2 12,0 2,2 0,12 -2,2 -12,0 -2,-2" fill="#E5A93C" />
+  </g>
+
+  <g font-family="monospace" font-size="9" fill="#FFFFFF" fill-opacity="0.5">
+    <circle cx="250" cy="65" r="1.5" fill="#E5A93C" fill-opacity="0.8"/>
+    <text x="260" y="68" fill="#FFF3D1">sys.resonance_active</text>
+
+    <circle cx="520" cy="95" r="1.5" fill="#FFFFFF"/>
+    <text x="530" y="98">perception_ratio: 1:1</text>
+  </g>
+
+  <circle cx="380" cy="50" r="2" fill="#FFFFFF" fill-opacity="0.3" />
+  <circle cx="430" cy="110" r="1" fill="#E5A93C" fill-opacity="0.5" />
+</svg>
