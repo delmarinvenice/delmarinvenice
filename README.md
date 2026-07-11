@@ -1,46 +1,54 @@
 <p align="center">
-  <img src="./banners/header.svg" alt="Arte Sensorial de Código" width="100%">
+  <img src="./banners/header.svg" alt="Art x Code Banner" width="100%">
 </p>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <h1>⚡ Creative Technologist & Polyglot Engineer</h1>
-      <p><i>"O código é uma matéria fluida; a arquitetura é o cristal que a molda."</i></p>
-      <p>Não vejo linguagens de programação como meras ferramentas, mas como diferentes frequências para traduzir ideias em realidade. Transito com fluidez entre a velocidade bruta de sistemas de baixo nível e a plasticidade estética de interfaces interativas.</p>
-      <p>Construindo ecossistemas digitais de alta performance, visualização de dados complexos (Dashboards) e aplicações imersivas — moldados sob a filosofia da máxima eficiência de custos e design autoral.</p>
-    </td>
-    <td width="35%" valign="top" align="right">
-      <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&bg_color=080D14&title_color=E5A93C&icon_color=E5A93C&text_color=A0AEC0&border_color=E5A93C30&border_radius=8" alt="GitHub Stats" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-<hr/>
-<br/>
-
-<h2 align="center">🔮 O Prisma Tecnológico</h2>
-<p align="center"><i>As 13 frequências de código que utilizo para moldar sistemas e experiências</i></p>
-
 <p align="center">
-  <img src="./banners/prisma-linguagens.svg" alt="Prisma de Linguagens" width="100%">
+  <img src="https://img.shields.io/badge/ARCHITECTURE-SENSORIAL_MODE-E5A93C?style=flat-spacing&labelColor=06090E" />
 </p>
 
-<br/>
-<hr/>
-<br/>
+---
 
-<h3 align="center">📊 Pulso de Desenvolvimento</h3>
+### 👁️ O Manifesto: O Código como Matéria Escultórica
+
+O código não é apenas lógica; é um meio de refração. Da mesma forma que a luz atravessa o cristal e se divide em cores, a engenharia de software transforma dados brutos em experiências perceptíveis. 
+
+Desenvolvo ecossistemas complexos, dashboards analíticos e arquiteturas estáveis de software sob a filosofia da ausência de custos operacionais desnecessários e fricção estética.
+
+---
+
+### 🔮 O Prisma Tecnológico (13 Frequências)
+
+Cada linguagem, um estado da matéria. Do baixo nível cristalino à plasticidade interpretativa das interfaces.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&bg_color=080D14&title_color=E5A93C&text_color=A0AEC0&border_color=E5A93C20&border_radius=8" alt="Top Languages" width="46%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&background=080D14&ring=E5A93C&fire=E5A93C&currStreakNum=A0AEC0&sideLabels=A0AEC0" alt="GitHub Streak" width="49%" />
+  <img src="./banners/prisma-linguagens.svg" alt="Prisma de Linguagens Avançado" width="100%">
 </p>
 
-<br/>
+---
+
+### 🛠️ Ciclo de Desenvolvimento Operacional
 
 <p align="center">
-  <a href="https://seu-portfolio.github.io">
-    <img src="https://img.shields.io/badge/Acessar_Galeria_de_Projetos_→-000000?style=for-the-badge&logoColor=E5A93C&labelColor=000" alt="Portfólio">
+  <img src="./banners/arquitetura.svg" alt="Fluxo de Arquitetura" width="100%">
+</p>
+
+---
+
+### 📊 Métricas de Pulso & Infraestrutura
+
+<p align="center">
+  <img src="./banners/moldura-stats.svg" alt="Moldura de Métricas" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&bg_color=06090E&title_color=E5A93C&icon_color=E5A93C&text_color=8892B0&border_color=00000000&border_radius=0&hide_title=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&bg_color=06090E&title_color=E5A93C&text_color=8892B0&border_color=00000000&border_radius=0&hide_title=true" width="48%" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://SEU_USUARIO_AQUI.github.io">
+    <img src="https://img.shields.io/badge/ENTER_THE_GALLERY_→-E5A93C?style=for-the-badge&logoColor=06090E&labelColor=06090E" alt="Entrar no Portfólio">
   </a>
 </p>
