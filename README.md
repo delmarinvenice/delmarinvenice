@@ -27,14 +27,14 @@ Os sistemas que crio buscam o equilíbrio dos cristais e a resiliência mutável
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delmarinvenice&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=E5A93C&icon_color=E5A93C&text_color=8892B0&border_color=00000000&hide_title=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delmarinvenice&layout=compact&theme=tokyonight&bg_color=00000000&title_color=E5A93C&text_color=8892B0&border_color=00000000&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=delmarir&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=E5A93C&icon_color=E5A93C&text_color=8892B0&border_color=00000000&hide_title=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delmarir&layout=compact&theme=tokyonight&bg_color=00000000&title_color=E5A93C&text_color=8892B0&border_color=00000000&hide_title=true" width="48%" />
 </p>
 
 <br><br>
 
 <p align="center">
-  <a href="https://delmarinvenice.github.io">
+  <a href="https://github.com/delmarir">
     <img src="./banners/button-water.svg" alt="Tocar a Superfície da Galeria" width="280">
   </a>
 </p>
