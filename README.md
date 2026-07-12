@@ -57,14 +57,14 @@ Os ecossistemas que modelo não são apenas sistemas operacionais; eles buscam o
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=E5A93C&icon_color=E5A93C&text_color=FFFFFF&border_color=00000000&border_radius=0&hide_title=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&bg_color=00000000&title_color=E5A93C&text_color=FFFFFF&border_color=00000000&border_radius=0&hide_title=true" width="48%" />
+  <img src="./banners/portal-cosmos.svg" alt="A Perturbação da Matéria Fluida" width="100%">
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO_AQUI">
-    <img src="./banners/button-water.svg" alt="Tocar a Superfície da Galeria">
+  <a href="https://github.com/SEU_USUARIO_AQUI" target="_blank">
+    <img src="./banners/button-water.svg" alt="Tocar a Superfície da Galeria" width="280">
   </a>
 </p>
+
