@@ -23,7 +23,7 @@ Enxergo a tecnologia não como um fim, mas como uma **extensão ancestral da men
 
 > **Escrever um código**, para mim, é uma tentativa de moldar uma **consciência assistida** que se expande a partir da nossa percepção biológica; uma manipulação cirúrgica de uma matéria fluida e invisível que se molda à vontade do intelecto.
 
----
+
 ִ ࣪𖤐
 
 ### ๋ ࣭ ⭑๋ ࣭  𝐴𝑠 𝐹𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎𝑠 𝑑𝑜 𝐶ó𝑑𝑖𝑔𝑜 // 𝑀𝑎𝑡é𝑟𝑖𝑎 𝑃𝑟𝑖𝑚𝑎 𝑉𝑒𝑡𝑜𝑟𝑖𝑎𝑙
@@ -40,9 +40,16 @@ Os ecossistemas que modelo não são apenas sistemas operacionais; eles buscam o
   <img src="./banners/prisma-linguagens.svg" alt="O Prisma de Linguagens Animado" width="100%">
 </p>
 
----
+⋆.˚
 
-### 📊 O Pulso Holográfico // Telemetria Operacional
+### ๋ ࣭ ⭑๋ ࣭  𝑂 𝑃𝑢𝑙𝑠𝑜 𝐻𝑜𝑙𝑜𝑔𝑟á𝑓𝑖𝑐𝑜 // 𝑇𝑒𝑙𝑒𝑚𝑒𝑡𝑟𝑖𝑎 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+
+⠀.⠀⠀⠀⠀⠀⠀⠀  ⠀⠀.𖥔 ݁ ˖🔭── .✦
+
+꒰⠀⠀⠀ׄ⠀⠀⠀ᬵ⠀⠀⠀⠀⠀ ׄ⠀⠀⠀⠀⠀︲  ⠀⠀⠀ׅ⠀ ⠀⠀⠀ไ
+
+⠀ׄ⠀⠀⠀⠀𝅦⠀⠀⠀⠀﹐⠀⠀ ⠀⠀⠀⠀ׄ⠀⠀⠀⠀⠀𓈒⠀⠀⠀⠀⠀ׅ⠀⠀⠀⠀⠀ᩚ
+
 
 <p align="center">
   <img src="./banners/holograma-stats.svg" alt="Interface de Telemetria Animada" width="100%">
