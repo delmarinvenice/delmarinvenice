@@ -13,13 +13,11 @@
 
 ⠀⠀⠀⠀⠀  ⠀⠀⠀☁︎࣪ ִֶָ☾..
 
-⠀⠀⠀ˎˊ˗⠀๋ ࣭ ⭑๋ ࣭ ⭑.⠀˚.𖥔 ݁ ˖🛸── .✦⠀⠀⠀⠀⠀꒩  ／⠀⠀☁︎ ࣪
-
-⠀⠀⠀࣪ ִֶָ⋆.˚๋ ࣭ ⭑๋ ࣭ ⭑  ˙ִֶָ. ..𓂃 ࣪ ִֶָ་༘࿐⠀⠀⠀⠀⠀⠀⠀  ׄ 　⁘ 
+⠀⠀⠀⠀⠀⠀⠀ 
 
 ⠀
 
-## — O Universo Conhece a Ti Mesmo, Através do Cosmos —
+## — 𝐎 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐨 𝐂𝐨𝐧𝐡𝐞𝐜𝐞 𝐚 𝐓𝐢 𝐌𝐞𝐬𝐦𝐨, 𝐀𝐭𝐫𝐚𝐯é𝐬 𝐝𝐨 𝐂𝐨𝐬𝐦𝐨𝐬 
 
 Enxergo a tecnologia não como um fim, mas como uma **extensão ancestral da mente humana**: um processo mecânico e infinitamente complexo que materializa a expressão intelectual do saber universal. É a ponte vetorial que conecta as histórias, os aprendizados e o legado de uma vida inteira, projetando essa essência para as próximas gerações através do silício.
 
