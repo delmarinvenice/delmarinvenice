@@ -17,7 +17,7 @@
 
 ⠀
 
-## —O Uᥒινᥱɾso Coᥒhᥱᥴᥱ ᥲ Tι Mᥱsɱo, Ɑtɾᥲνᥱ́s Ꮷo Cosɱos
+## ๋ ࣭ ⭑๋ ࣭ 𝑂 𝑈𝑛𝑖𝑣𝑒𝑟𝑠𝑜 𝐶𝑜𝑛𝘩𝑒𝑐𝑒 𝑎 𝑇𝑖 𝑀𝑒𝑠𝑚𝑜, 𝐴𝑡𝑟𝑎𝑣é𝑠 𝑑𝑜 𝐶𝑜𝑠𝑚𝑜𝑠
 
 Enxergo a tecnologia não como um fim, mas como uma **extensão ancestral da mente humana**: um processo mecânico e infinitamente complexo que materializa a expressão intelectual do saber universal. É a ponte vetorial que conecta as histórias, os aprendizados e o legado de uma vida inteira, projetando essa essência para as próximas gerações através do silício.
 
