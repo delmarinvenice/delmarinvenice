@@ -30,7 +30,7 @@ Enxergo a tecnologia não como um fim, mas como uma **extensão ancestral da men
 
 Os ecossistemas que modelo não são apenas sistemas operacionais; eles buscam o equilíbrio cristalino e a resiliência mutável da água. São estruturas transparentes, performáticas por natureza e destituídas de qualquer complexidade de infraestrutura que aprisione a liberdade criativa ou a pureza da ideia original.
 
-⠀⠀⠀.⠀⠀⠀⠀⠀⠀⠀  ⠀⠀.𖥔 ݁ ˖🛸── .✦
+⠀⠀⠀.⠀⠀⠀⠀⠀⠀⠀  ⠀⠀.𖥔 ݁ ˖🌐── .✦
 
 ꒰⠀⠀⠀ׄ⠀⠀⠀ᬵ⠀⠀⠀⠀⠀ ׄ⠀⠀⠀⠀⠀︲  ⠀⠀⠀ׅ⠀ ⠀⠀⠀ไ
 
