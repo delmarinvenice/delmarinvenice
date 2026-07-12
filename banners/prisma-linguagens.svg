@@ -1,101 +1,99 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="100%">
   <defs>
-    <linearGradient id="fiber-glow" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#E5A93C" stop-opacity="0.8"/>
-      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#4A3411" stop-opacity="0.2"/>
+    <linearGradient id="intense-fiber" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD27F" stop-opacity="0.9"/>
+      <stop offset="35%" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="65%" stop-color="#FFB326" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.4"/>
     </linearGradient>
   </defs>
 
-  <g stroke="url(#fiber-glow)" stroke-opacity="0.2" stroke-width="0.8">
-    <path d="M 50,260 Q 250,140 450,260 T 750,180" fill="none" />
-    <path d="M 50,220 Q 230,290 470,150 T 750,260" fill="none" stroke-opacity="0.15"/>
-    <path d="M 50,140 Q 300,80 400,280 T 750,120" fill="none" stroke-opacity="0.1" stroke-dasharray="4,4"/>
+  <g stroke="url(#intense-fiber)" fill="none">
+    <path d="M 40,280 Q 240,120 460,280 T 760,190" stroke-width="2.5" stroke-opacity="0.5" />
+    <path d="M 40,200 Q 220,310 480,130 T 760,290" stroke-width="1.8" stroke-opacity="0.4" />
+    <path d="M 40,120 Q 300,50 380,300 T 760,100" stroke-width="1.5" stroke-opacity="0.3" stroke-dasharray="6,6"/>
   </g>
 
-  <g transform="translate(180, 100)">
-    <animateTransform attributeName="transform" type="translate" values="180,100; 180,94; 180,100" dur="4s" repeatCount="indefinite" />
-    <circle cx="0" cy="0" r="4" fill="#FFFFFF"/>
-    <circle cx="0" cy="0" r="10" fill="none" stroke="#E5A93C" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="16" y="4" font-family="sans-serif" font-weight="400" font-size="12" fill="#FFFFFF" style="letter-spacing: 2px;">TypeScript</text>
+  <g transform="translate(160, 110)">
+    <animateTransform attributeName="transform" type="translate" values="160,110; 160,90; 160,110" dur="3s" repeatCount="indefinite" />
+    <polygon points="0,-12 2,-2 12,0 2,2 0,12 -2,2 -12,0 -2,-2" fill="#FFFFFF"/>
+    <text x="18" y="5" font-family="system-ui, sans-serif" font-weight="800" font-size="14" fill="#FFFFFF" style="letter-spacing: 1.5px;">TypeScript</text>
   </g>
 
-  <g transform="translate(310, 70)">
-    <animateTransform attributeName="transform" type="translate" values="310,70; 310,76; 310,70" dur="3.5s" repeatCount="indefinite" />
-    <circle cx="0" cy="0" r="3" fill="#FFF3D1"/>
-    <text x="14" y="4" font-family="sans-serif" font-weight="300" font-size="11" fill="#E5A93C" style="letter-spacing: 1px;">JavaScript</text>
+  <g transform="translate(300, 60)">
+    <animateTransform attributeName="transform" type="translate" values="300,60; 300,75; 300,60" dur="2.7s" repeatCount="indefinite" />
+    <polygon points="0,-8 1.5,-1.5 8,0 1.5,1.5 0,8 -1.5,1.5 -8,0 -1.5,-1.5" fill="#FFC55A"/>
+    <text x="14" y="5" font-family="system-ui, sans-serif" font-weight="800" font-size="13" fill="#FFC55A" style="letter-spacing: 1px;">JavaScript</text>
   </g>
 
-  <g transform="translate(440, 210)">
-    <animateTransform attributeName="transform" type="translate" values="440,210; 440,202; 440,210" dur="5s" repeatCount="indefinite" />
-    <circle cx="0" cy="0" r="5" fill="#FFFFFF"/>
-    <circle cx="0" cy="0" r="14" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.6">
-      <animate attributeName="r" values="8;15;8" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <text x="20" y="5" font-family="sans-serif" font-weight="600" font-size="13" fill="#E5A93C" style="letter-spacing: 2px;">Go</text>
+  <g transform="translate(430, 240)">
+    <animateTransform attributeName="transform" type="translate" values="430,240; 430,215; 430,240" dur="3.5s" repeatCount="indefinite" />
+    <polygon points="0,-16 3,-3 16,0 3,3 0,16 -3,3 -16,0 -3,-3" fill="#FFFFFF">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="1.5s" repeatCount="indefinite"/>
+    </polygon>
+    <text x="24" y="6" font-family="system-ui, sans-serif" font-weight="900" font-size="16" fill="#FFB326" style="letter-spacing: 2px;">Go</text>
   </g>
 
-  <g transform="translate(650, 120)">
-    <animateTransform attributeName="transform" type="translate" values="650,120; 650,114; 650,120" dur="4.2s" repeatCount="indefinite" />
-    <circle cx="0" cy="0" r="4" fill="#FFFFFF"/>
-    <circle cx="0" cy="0" r="10" fill="none" stroke="#E5A93C" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="16" y="4" font-family="sans-serif" font-weight="400" font-size="12" fill="#FFFFFF" style="letter-spacing: 2px;">Rust</text>
+  <g transform="translate(640, 130)">
+    <animateTransform attributeName="transform" type="translate" values="640,130; 640,110; 640,130" dur="3.2s" repeatCount="indefinite" />
+    <polygon points="0,-12 2,-2 12,0 2,2 0,12 -2,2 -12,0 -2,-2" fill="#FFFFFF"/>
+    <text x="18" y="5" font-family="system-ui, sans-serif" font-weight="800" font-size="14" fill="#FFFFFF" style="letter-spacing: 1.5px;">Rust</text>
   </g>
 
-  <g transform="translate(580, 240)">
-    <animateTransform attributeName="transform" type="translate" values="580,240; 580,246; 580,240" dur="4.8s" repeatCount="indefinite" />
-    <circle cx="0" cy="0" r="3" fill="#FFFFFF" fill-opacity="0.8"/>
-    <text x="14" y="4" font-family="sans-serif" font-weight="300" font-size="11" fill="#FFFFFF" style="letter-spacing: 1px;">Python</text>
+  <g transform="translate(560, 280)">
+    <animateTransform attributeName="transform" type="translate" values="560,280; 560,298; 560,280" dur="4s" repeatCount="indefinite" />
+    <polygon points="0,-10 2,-2 10,0 2,2 0,10 -2,2 -10,0 -2,-2" fill="#FFFFFF"/>
+    <text x="16" y="4" font-family="system-ui, sans-serif" font-weight="700" font-size="13" fill="#FFFFFF" style="letter-spacing: 1px;">Python</text>
   </g>
 
-  <g transform="translate(420, 130)">
-    <animateTransform attributeName="transform" type="translate" values="420,130; 420,135; 420,130" dur="3.8s" repeatCount="indefinite" />
-    <circle cx="0" cy="0" r="3" fill="#E5A93C" fill-opacity="0.6"/>
-    <text x="12" y="3" font-family="sans-serif" font-size="10" fill="#FFFFFF" fill-opacity="0.6">PHP</text>
+  <g transform="translate(400, 140)">
+    <animateTransform attributeName="transform" type="translate" values="400,140; 400,155; 400,140" dur="2.9s" repeatCount="indefinite" />
+    <circle cx="0" cy="0" r="3" fill="#FFC55A"/>
+    <text x="12" y="4" font-family="system-ui, sans-serif" font-weight="700" font-size="12" fill="#FFFFFF">PHP</text>
   </g>
 
-  <g transform="translate(340, 290)">
-    <animateTransform attributeName="transform" type="translate" values="340,290; 340,284; 340,290" dur="5.2s" repeatCount="indefinite" />
-    <circle cx="0" cy="0" r="3" fill="#FFFFFF" fill-opacity="0.7"/>
-    <text x="14" y="4" font-family="sans-serif" font-size="11" fill="#FFF3D1" fill-opacity="0.7">Java</text>
+  <g transform="translate(310, 330)">
+    <animateTransform attributeName="transform" type="translate" values="310,330; 310,310; 310,330" dur="3.8s" repeatCount="indefinite" />
+    <polygon points="0,-10 2,-2 10,0 2,2 0,10 -2,2 -10,0 -2,-2" fill="#FFC55A"/>
+    <text x="16" y="5" font-family="system-ui, sans-serif" font-weight="800" font-size="13" fill="#FFC55A">Java</text>
   </g>
 
-  <g transform="translate(540, 160)">
-    <animateTransform attributeName="transform" type="translate" values="540,160; 540,164; 540,160" dur="4.1s" repeatCount="indefinite" />
-    <circle cx="0" cy="0" r="3" fill="#E5A93C" fill-opacity="0.7"/>
-    <text x="12" y="4" font-family="sans-serif" font-size="11" fill="#FFFFFF" fill-opacity="0.8">C#</text>
+  <g transform="translate(520, 180)">
+    <animateTransform attributeName="transform" type="translate" values="520,180; 520,195; 520,180" dur="3.1s" repeatCount="indefinite" />
+    <polygon points="0,-8 1.5,-1.5 8,0 1.5,1.5 0,8 -1.5,1.5 -8,0 -1.5,-1.5" fill="#FFFFFF"/>
+    <text x="14" y="4" font-family="system-ui, sans-serif" font-weight="800" font-size="13" fill="#FFFFFF">C#</text>
   </g>
 
-  <g transform="translate(240, 190)">
-    <animateTransform attributeName="transform" type="translate" values="240,190; 240,185; 240,190" dur="4.6s" repeatCount="indefinite" />
-    <circle cx="0" cy="0" r="2.5" fill="#FFFFFF" fill-opacity="0.5"/>
-    <text x="12" y="3" font-family="sans-serif" font-size="10" fill="#FFFFFF" fill-opacity="0.6">Kotlin</text>
+  <g transform="translate(220, 210)">
+    <animateTransform attributeName="transform" type="translate" values="220,210; 220,192; 220,210" dur="3.4s" repeatCount="indefinite" />
+    <circle cx="0" cy="0" r="3" fill="#FFFFFF"/>
+    <text x="12" y="4" font-family="system-ui, sans-serif" font-weight="700" font-size="12" fill="#FFFFFF">Kotlin</text>
   </g>
 
-  <g transform="translate(100, 160)">
-    <animateTransform attributeName="transform" type="translate" values="100,160; 100,165; 100,160" dur="3.9s" repeatCount="indefinite" />
-    <circle cx="0" cy="0" r="2.5" fill="#E5A93C" fill-opacity="0.5"/>
-    <text x="12" y="3" font-family="sans-serif" font-size="10" fill="#FFFFFF" fill-opacity="0.6">Swift</text>
+  <g transform="translate(80, 180)">
+    <animateTransform attributeName="transform" type="translate" values="80,180; 80,198; 80,180" dur="3.6s" repeatCount="indefinite" />
+    <polygon points="0,-10 2,-2 10,0 2,2 0,10 -2,2 -10,0 -2,-2" fill="#FFC55A"/>
+    <text x="16" y="4" font-family="system-ui, sans-serif" font-weight="700" font-size="12" fill="#FFFFFF">Swift</text>
   </g>
 
-  <g transform="translate(710, 210)">
-    <animateTransform attributeName="transform" type="translate" values="710,210; 710,204; 710,210" dur="4.3s" repeatCount="indefinite" />
-    <circle cx="0" cy="0" r="3" fill="#FFFFFF" fill-opacity="0.5"/>
-    <text x="12" y="4" font-family="sans-serif" font-size="11" fill="#E5A93C" fill-opacity="0.7">C++</text>
+  <g transform="translate(680, 230)">
+    <animateTransform attributeName="transform" type="translate" values="680,230; 680,210; 680,230" dur="3.3s" repeatCount="indefinite" />
+    <polygon points="0,-12 2,-2 12,0 2,2 0,12 -2,2 -12,0 -2,-2" fill="#FFFFFF"/>
+    <text x="18" y="5" font-family="system-ui, sans-serif" font-weight="800" font-size="14" fill="#FFC55A">C++</text>
   </g>
 
-  <g transform="translate(620, 60)">
-    <animateTransform attributeName="transform" type="translate" values="620,60; 620,65; 620,60" dur="5s" repeatCount="indefinite" />
-    <circle cx="0" cy="0" r="2" fill="#FFFFFF" fill-opacity="0.4"/>
-    <text x="10" y="3" font-family="sans-serif" font-size="10" fill="#FFFFFF" fill-opacity="0.5">Powershell</text>
+  <g transform="translate(590, 70)">
+    <animateTransform attributeName="transform" type="translate" values="590,70; 590,85; 590,70" dur="3.7s" repeatCount="indefinite" />
+    <circle cx="0" cy="0" r="3" fill="#FFFFFF"/>
+    <text x="12" y="4" font-family="system-ui, sans-serif" font-weight="700" font-size="12" fill="#FFFFFF" fill-opacity="0.9">Powershell</text>
   </g>
 
-  <g transform="translate(490, 90)">
-    <animateTransform attributeName="transform" type="translate" values="490,90; 490,85; 490,90" dur="4.7s" repeatCount="indefinite" />
-    <circle cx="0" cy="0" r="2.5" fill="#E5A93C" fill-opacity="0.6"/>
-    <text x="12" y="3" font-family="sans-serif" font-size="10" fill="#FFF3D1" fill-opacity="0.6">SQL</text>
+  <g transform="translate(470, 90)">
+    <animateTransform attributeName="transform" type="translate" values="470,90; 470,72; 470,90" dur="3.2s" repeatCount="indefinite" />
+    <polygon points="0,-8 1.5,-1.5 8,0 1.5,1.5 0,8 -1.5,1.5 -8,0 -1.5,-1.5" fill="#FFC55A"/>
+    <text x="14" y="4" font-family="system-ui, sans-serif" font-weight="700" font-size="12" fill="#FFFFFF">SQL</text>
   </g>
 
-  <g transform="translate(140, 240)"><polygon points="0,-4 1,-1 4,0 1,1 0,4 -1,1 -4,0 -1,-1" fill="#FFF"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2s" repeatCount="indefinite"/></polygon></g>
-  <g transform="translate(520, 310)"><polygon points="0,-4 1,-1 4,0 1,1 0,4 -1,1 -4,0 -1,-1" fill="#E5A93C"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="2.5s" repeatCount="indefinite"/></polygon></g>
+  <g transform="translate(140, 300)"><polygon points="0,-5 1,-1 5,0 1,1 0,5 -1,1 -5,0 -1,-1" fill="#FFF"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" repeatCount="indefinite"/></polygon></g>
+  <g transform="translate(680, 60)"><polygon points="0,-5 1,-1 5,0 1,1 0,5 -1,1 -5,0 -1,-1" fill="#FFC55A"><animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/></polygon></g>
 </svg>
