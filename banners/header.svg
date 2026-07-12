@@ -1,45 +1,56 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="100%">
   <defs>
-    <linearGradient id="liquid-gold" x1="10%" y1="0%" x2="90%" y2="100%">
-      <stop offset="0%" stop-color="#4A3411" stop-opacity="0.1"/>
-      <stop offset="50%" stop-color="#E5A93C" stop-opacity="0.5"/>
-      <stop offset="85%" stop-color="#FFFFFF" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#9A7432" stop-opacity="0.3"/>
+    <linearGradient id="quantum-glow" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E5A93C" stop-opacity="0.2"/>
+      <stop offset="48%" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="52%" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="75%" stop-color="#E5A93C" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.1"/>
     </linearGradient>
   </defs>
 
-  <g transform="translate(400, 160)">
-    <path d="M-180,40 Q-90,-120 0,-40 T180,-80" stroke="url(#liquid-gold)" stroke-width="1.2" fill="none" stroke-opacity="0.4"/>
-    <path d="M-140,60 Q-40,-90 20,-10 T160,-30" stroke="url(#liquid-gold)" stroke-width="2" fill="none" stroke-opacity="0.5"/>
-    <path d="M-220,10 Q-110,-160 -10,-80 T200,-120" stroke="#FFFFFF" stroke-width="0.8" fill="none" stroke-opacity="0.2"/>
+  <g stroke="#E5A93C" stroke-opacity="0.08" stroke-width="0.5">
+    <line x1="100" y1="0" x2="100" y2="360" />
+    <line x1="200" y1="0" x2="200" y2="360" />
+    <line x1="300" y1="0" x2="300" y2="360" />
+    <line x1="500" y1="0" x2="500" y2="360" />
+    <line x1="600" y1="0" x2="600" y2="360" />
+    <line x1="700" y1="0" x2="700" y2="360" />
+    <line x1="0" y1="180" x2="800" y2="180" />
+  </g>
+
+  <g transform="translate(400, 180)">
+    <circle cx="0" cy="0" r="140" fill="none" stroke="url(#quantum-glow)" stroke-width="0.8" stroke-opacity="0.3" stroke-dasharray="2,6">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="40s" repeatCount="indefinite" additive="sum"/>
+    </circle>
+    <circle cx="0" cy="0" r="110" fill="none" stroke="#FFFFFF" stroke-width="1.2" stroke-opacity="0.5">
+      <animate attributeName="stroke-opacity" values="0.2;0.8;0.2" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="80" fill="none" stroke="url(#quantum-glow)" stroke-width="1.5" stroke-opacity="0.7" stroke-dasharray="40,2">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="20s" repeatCount="indefinite" additive="sum"/>
+    </circle>
     
-    <path d="M-40,20 C-60,-40 -30,-110 0,-110 C30,-110 50,-50 30,30 C15,60 -15,50 -40,20 Z" stroke="url(#liquid-gold)" stroke-width="2.5" fill="none" stroke-opacity="0.9"/>
-    <path d="M-25,10 C-40,-30 -20,-85 0,-85 C20,-85 30,-40 20,20" stroke="#FFFFFF" stroke-width="1" fill="none" stroke-opacity="0.4"/>
-    
-    <path d="M-300,100 C-100,80 -50,-20 0,-20 C50,-20 100,120 300,60" stroke="url(#liquid-gold)" stroke-width="1.5" fill="none" stroke-opacity="0.3"/>
+    <line x1="-160" y1="0" x2="160" y2="0" stroke="#FFFFFF" stroke-width="0.5" stroke-opacity="0.4" />
+    <line x1="0" y1="-160" x2="0" y2="160" stroke="#FFFFFF" stroke-width="0.5" stroke-opacity="0.4" />
+
+    <path d="M-20,40 C-40,-10 -30,-70 0,-100 C30,-70 40,-10 20,40 C10,60 -10,60 -20,40 Z" stroke="url(#quantum-glow)" stroke-width="2.5" fill="none" stroke-opacity="0.9"/>
+    <path d="M-10,20 C-25,-10 -20,-50 0,-75 C20,-50 25,-10 10,20 Z" stroke="#FFFFFF" stroke-width="0.8" fill="none" stroke-opacity="0.6"/>
+
+    <path d="M-25,-10 Q-70,-30 -110,-10" stroke="url(#quantum-glow)" stroke-width="1" fill="none" stroke-opacity="0.6"/>
+    <path d="M25,-10 Q70,-30 110,-10" stroke="url(#quantum-glow)" stroke-width="1" fill="none" stroke-opacity="0.6"/>
   </g>
 
-  <g transform="translate(400, 45)">
-    <polygon points="0,-18 2,-2 18,0 2,2 0,18 -2,2 -18,0 -2,-2" fill="#FFFFFF" />
-    <circle cx="0" cy="0" r="6" fill="#FFFFFF" fill-opacity="0.3" />
-  </g>
-  
-  <g transform="translate(260, 110)" opacity="0.8">
-    <polygon points="0,-10 1.5,-1.5 10,0 1.5,1.5 0,10 -1.5,1.5 -10,0 -1.5,-1.5" fill="#E5A93C" />
-  </g>
+  <line x1="400" y1="0" x2="400" y2="360" stroke="#FFFFFF" stroke-width="3" stroke-opacity="0.9">
+    <animate attributeName="stroke-width" values="1.5;4;1.5" dur="2s" repeatCount="indefinite"/>
+  </line>
+  <line x1="400" y1="0" x2="400" y2="360" stroke="url(#quantum-glow)" stroke-width="8" stroke-opacity="0.4"/>
 
-  <g transform="translate(580, 120)" opacity="0.7">
-    <polygon points="0,-12 1.5,-1.5 12,0 1.5,1.5 0,12 -1.5,1.5 -12,0 -1.5,-1.5" fill="#FFFFFF" />
-  </g>
-
-  <g fill="#FFF3D1">
-    <circle cx="360" cy="90" r="2" fill-opacity="0.5" />
-    <circle cx="430" cy="75" r="1.2" fill="#FFFFFF" fill-opacity="0.8" />
-    <circle cx="390" cy="120" r="3" fill="#E5A93C" fill-opacity="0.6" />
-    <circle cx="415" cy="200" r="1.5" fill-opacity="0.4" />
-    <circle cx="460" cy="140" r="2.2" fill-opacity="0.5" />
-    <circle cx="320" cy="180" r="1.2" fill="#FFFFFF" fill-opacity="0.3" />
-    <circle cx="480" cy="220" r="2.5" fill="#E5A93C" fill-opacity="0.7" />
-    <circle cx="370" cy="250" r="1.5" fill-opacity="0.4" />
+  <g transform="translate(400, 80)">
+    <polygon points="0,-30 3,-3 30,0 3,3 0,30 -3,3 -30,0 -3,-3" fill="#FFFFFF">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1.2s" repeatCount="indefinite"/>
+    </polygon>
+    <circle cx="0" cy="0" r="8" fill="#FFFFFF" fill-opacity="0.4">
+      <animate attributeName="r" values="5;11;5" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
   </g>
 </svg>
