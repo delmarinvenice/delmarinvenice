@@ -24,10 +24,17 @@ Enxergo a tecnologia não como um fim, mas como uma **extensão ancestral da men
 > **Escrever um código**, para mim, é uma tentativa de moldar uma **consciência assistida** que se expande a partir da nossa percepção biológica; uma manipulação cirúrgica de uma matéria fluida e invisível que se molda à vontade do intelecto.
 
 ---
+ִ ࣪𖤐
 
-### 🧬 As Frequências do Código // Matéria Prima Vetorial
+### ๋ ࣭ ⭑๋ ࣭  𝐴𝑠 𝐹𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎𝑠 𝑑𝑜 𝐶ó𝑑𝑖𝑔𝑜 // 𝑀𝑎𝑡é𝑟𝑖𝑎 𝑃𝑟𝑖𝑚𝑎 𝑉𝑒𝑡𝑜𝑟𝑖𝑎𝑙
 
 Os ecossistemas que modelo não são apenas sistemas operacionais; eles buscam o equilíbrio cristalino e a resiliência mutável da água. São estruturas transparentes, performáticas por natureza e destituídas de qualquer complexidade de infraestrutura que aprisione a liberdade criativa ou a pureza da ideia original.
+
+⠀⠀⠀.⠀⠀⠀⠀⠀⠀⠀  ⠀⠀.𖥔 ݁ ˖🛸── .✦
+
+꒰⠀⠀⠀ׄ⠀⠀⠀ᬵ⠀⠀⠀⠀⠀ ׄ⠀⠀⠀⠀⠀︲  ⠀⠀⠀ׅ⠀ ⠀⠀⠀ไ
+
+⠀ׄ⠀⠀⠀⠀𝅦⠀⠀⠀⠀﹐⠀⠀ ⠀⠀⠀⠀ׄ⠀⠀⠀⠀⠀𓈒⠀⠀⠀⠀⠀ׅ⠀⠀⠀⠀⠀ᩚ
 
 <p align="center">
   <img src="./banners/prisma-linguagens.svg" alt="O Prisma de Linguagens Animado" width="100%">
